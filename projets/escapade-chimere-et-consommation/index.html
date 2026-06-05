@@ -1,4 +1,80 @@
-<!DOCTYPE html><!-- Made in Framer · framer.com ✨ --><!-- Published Jun 5, 2026, 5:51 PM UTC --><html lang="fr"><head><style>
+<!DOCTYPE html><!-- Made in Framer · framer.com ✨ --><!-- Published Jun 5, 2026, 5:51 PM UTC --><html lang="fr"><head><script>
+(function(){
+  // Sur mobile (largeur < 810px), on remplace les grandes images Framer par des versions réduites
+  if(window.innerWidth >= 810) return;
+  
+  // Patch Image natif pour intercepter les src avant chargement
+  var OrigImage = window.Image;
+  function PatchedImage(w, h){ return new OrigImage(w, h); }
+  PatchedImage.prototype = OrigImage.prototype;
+  
+  function downsizeFramerUrl(url) {
+    if(!url || typeof url !== 'string') return url;
+    // Images framerusercontent.com avec width= dans l'URL
+    url = url.replace(/framerusercontent\.com\/images\/([^?]+)\?lossless=1&width=\d+&height=\d+/g,
+      'framerusercontent.com/images/$1?lossless=1&width=800');
+    // Images locales /images/ avec srcset — on ne peut pas les réduire mais le sizes corrigé s'en charge
+    return url;
+  }
+  
+  // Patch fetch pour intercepter les requêtes d'images Framer
+  var origFetch = window.fetch;
+  window.fetch = function(url, opts) {
+    if(typeof url === 'string') url = downsizeFramerUrl(url);
+    return origFetch.call(this, url, opts);
+  };
+  
+  // Patch MutationObserver pour modifier les img au moment où Framer les insère dans le DOM
+  var origObserver = window.MutationObserver;
+  window.MutationObserver = function(cb) {
+    return new origObserver(function(mutations) {
+      mutations.forEach(function(m) {
+        m.addedNodes.forEach(function(node) {
+          if(node.nodeType !== 1) return;
+          // Images directes
+          if(node.tagName === 'IMG') patchImg(node);
+          // Images dans les enfants
+          node.querySelectorAll && node.querySelectorAll('img').forEach(patchImg);
+        });
+      });
+      cb(mutations);
+    });
+  };
+  window.MutationObserver.prototype = origObserver.prototype;
+  
+  function patchImg(img) {
+    if(img._patched) return;
+    img._patched = true;
+    // Réduire src framerusercontent
+    if(img.src && img.src.includes('framerusercontent.com') && img.src.includes('width=')) {
+      img.src = downsizeFramerUrl(img.src);
+    }
+    // Supprimer srcset pour forcer le src réduit
+    if(img.srcset && img.srcset.includes('framerusercontent.com')) {
+      img.srcset = '';
+    }
+    // Pour les srcsets locaux (/images/), corriger le sizes
+    if(img.sizes && img.sizes.includes('100vw')) {
+      img.sizes = '50vw';
+    }
+  }
+  
+  // Patcher aussi les images déjà présentes dans le SSR
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('img').forEach(patchImg);
+  });
+  
+  // Limiter le nombre d'images chargées simultanément via IntersectionObserver
+  // Toutes les images SSR passent en loading=lazy
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('img:not([loading])').forEach(function(img) {
+      img.loading = 'lazy';
+    });
+  });
+  
+})();
+</script>
+<style>
 #__framer-badge-container,#__framer-template-badge-container,
 a[href*="framer.com/templates"],a[href*="framer.com/marketplace"]{display:none!important;pointer-events:none!important;height:0!important;overflow:hidden!important}
 </style><script>
