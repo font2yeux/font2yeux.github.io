@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "name": "yeux",
+      "url": "https://yeuxtest.framer.website"
+    },
+    {
+      "@type": "WebSite",
+      "name": "yeux",
+      "url": "https://yeuxtest.framer.website"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yeuxtest.framer.website/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Projets",
+          "item": "https://yeuxtest.framer.website/projets"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Escapade Chimere Et Consommation",
+          "item": "https://yeuxtest.framer.website/projets/escapade-chimere-et-consommation"
+        }
+      ]
+    }
+  ],
+  "confidence": {
+    "BreadcrumbList": 0.95
+  }
+}

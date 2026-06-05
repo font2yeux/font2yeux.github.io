@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "name": "yeux",
+      "url": "https://yeuxtest.framer.website"
+    },
+    {
+      "@type": "WebSite",
+      "name": "yeux",
+      "url": "https://yeuxtest.framer.website"
+    }
+  ],
+  "confidence": {}
+}

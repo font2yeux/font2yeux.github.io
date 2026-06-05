@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "name": "yeux",
+      "url": "https://yeuxtest.framer.website"
+    },
+    {
+      "@type": "WebSite",
+      "name": "yeux",
+      "url": "https://yeuxtest.framer.website"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yeuxtest.framer.website/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Info",
+          "item": "https://yeuxtest.framer.website/info"
+        }
+      ]
+    }
+  ],
+  "confidence": {
+    "BreadcrumbList": 0.95
+  }
+}

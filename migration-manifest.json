@@ -1,0 +1,252 @@
+{
+  "manifestVersion": 1,
+  "tool": "FramerExport",
+  "generatedAt": "2026-06-05T21:09:39.116Z",
+  "site": {
+    "name": "yeux",
+    "url": "https://yeuxtest.framer.website",
+    "pageCount": 26,
+    "assetCount": 536
+  },
+  "pages": [
+    {
+      "url": "/",
+      "slug": "index",
+      "type": "landing",
+      "contentPath": "index.md",
+      "seoPath": "index.yml",
+      "schemaPath": "index.schema.json",
+      "wordCount": 92
+    },
+    {
+      "url": "/projets/larmes-de-crocodile",
+      "slug": "projets/larmes-de-crocodile",
+      "type": "landing",
+      "contentPath": "projets/larmes-de-crocodile/index.md",
+      "seoPath": "projets/larmes-de-crocodile/index.yml",
+      "schemaPath": "projets/larmes-de-crocodile/index.schema.json",
+      "wordCount": 63
+    },
+    {
+      "url": "/projets/thelma-et-louise",
+      "slug": "projets/thelma-et-louise",
+      "type": "landing",
+      "contentPath": "projets/thelma-et-louise/index.md",
+      "seoPath": "projets/thelma-et-louise/index.yml",
+      "schemaPath": "projets/thelma-et-louise/index.schema.json",
+      "wordCount": 64
+    },
+    {
+      "url": "/projets/oe",
+      "slug": "projets/oe",
+      "type": "landing",
+      "contentPath": "projets/oe/index.md",
+      "seoPath": "projets/oe/index.yml",
+      "schemaPath": "projets/oe/index.schema.json",
+      "wordCount": 58
+    },
+    {
+      "url": "/projets/moi-et-les-autres",
+      "slug": "projets/moi-et-les-autres",
+      "type": "landing",
+      "contentPath": "projets/moi-et-les-autres/index.md",
+      "seoPath": "projets/moi-et-les-autres/index.yml",
+      "schemaPath": "projets/moi-et-les-autres/index.schema.json",
+      "wordCount": 65
+    },
+    {
+      "url": "/projets/pink-puppy",
+      "slug": "projets/pink-puppy",
+      "type": "landing",
+      "contentPath": "projets/pink-puppy/index.md",
+      "seoPath": "projets/pink-puppy/index.yml",
+      "schemaPath": "projets/pink-puppy/index.schema.json",
+      "wordCount": 69
+    },
+    {
+      "url": "/projets/sur-la-vague",
+      "slug": "projets/sur-la-vague",
+      "type": "landing",
+      "contentPath": "projets/sur-la-vague/index.md",
+      "seoPath": "projets/sur-la-vague/index.yml",
+      "schemaPath": "projets/sur-la-vague/index.schema.json",
+      "wordCount": 65
+    },
+    {
+      "url": "/projets/exploration-interieure",
+      "slug": "projets/exploration-interieure",
+      "type": "landing",
+      "contentPath": "projets/exploration-interieure/index.md",
+      "seoPath": "projets/exploration-interieure/index.yml",
+      "schemaPath": "projets/exploration-interieure/index.schema.json",
+      "wordCount": 62
+    },
+    {
+      "url": "/projets/fleurs",
+      "slug": "projets/fleurs",
+      "type": "landing",
+      "contentPath": "projets/fleurs/index.md",
+      "seoPath": "projets/fleurs/index.yml",
+      "schemaPath": "projets/fleurs/index.schema.json",
+      "wordCount": 62
+    },
+    {
+      "url": "/galerie/1",
+      "slug": "galerie/1",
+      "type": "landing",
+      "contentPath": "galerie/1/index.md",
+      "seoPath": "galerie/1/index.yml",
+      "schemaPath": "galerie/1/index.schema.json",
+      "wordCount": 49
+    },
+    {
+      "url": "/projets/recueil",
+      "slug": "projets/recueil",
+      "type": "landing",
+      "contentPath": "projets/recueil/index.md",
+      "seoPath": "projets/recueil/index.yml",
+      "schemaPath": "projets/recueil/index.schema.json",
+      "wordCount": 62
+    },
+    {
+      "url": "/projets/d-yeux-que-pour-nous",
+      "slug": "projets/d-yeux-que-pour-nous",
+      "type": "landing",
+      "contentPath": "projets/d-yeux-que-pour-nous/index.md",
+      "seoPath": "projets/d-yeux-que-pour-nous/index.yml",
+      "schemaPath": "projets/d-yeux-que-pour-nous/index.schema.json",
+      "wordCount": 64
+    },
+    {
+      "url": "/projets/lana-core",
+      "slug": "projets/lana-core",
+      "type": "landing",
+      "contentPath": "projets/lana-core/index.md",
+      "seoPath": "projets/lana-core/index.yml",
+      "schemaPath": "projets/lana-core/index.schema.json",
+      "wordCount": 70
+    },
+    {
+      "url": "/projets/culture.wapi",
+      "slug": "projets/culture.wapi",
+      "type": "landing",
+      "contentPath": "projets/culture.wapi/index.md",
+      "seoPath": "projets/culture.wapi/index.yml",
+      "schemaPath": "projets/culture.wapi/index.schema.json",
+      "wordCount": 64
+    },
+    {
+      "url": "/projets/dialogues-intimes",
+      "slug": "projets/dialogues-intimes",
+      "type": "landing",
+      "contentPath": "projets/dialogues-intimes/index.md",
+      "seoPath": "projets/dialogues-intimes/index.yml",
+      "schemaPath": "projets/dialogues-intimes/index.schema.json",
+      "wordCount": 69
+    },
+    {
+      "url": "/projets/le-champ-de-bataille",
+      "slug": "projets/le-champ-de-bataille",
+      "type": "landing",
+      "contentPath": "projets/le-champ-de-bataille/index.md",
+      "seoPath": "projets/le-champ-de-bataille/index.yml",
+      "schemaPath": "projets/le-champ-de-bataille/index.schema.json",
+      "wordCount": 63
+    },
+    {
+      "url": "/projets/muses-ancrees",
+      "slug": "projets/muses-ancrees",
+      "type": "landing",
+      "contentPath": "projets/muses-ancrees/index.md",
+      "seoPath": "projets/muses-ancrees/index.yml",
+      "schemaPath": "projets/muses-ancrees/index.schema.json",
+      "wordCount": 64
+    },
+    {
+      "url": "/projets/infiniments-petits",
+      "slug": "projets/infiniments-petits",
+      "type": "landing",
+      "contentPath": "projets/infiniments-petits/index.md",
+      "seoPath": "projets/infiniments-petits/index.yml",
+      "schemaPath": "projets/infiniments-petits/index.schema.json",
+      "wordCount": 66
+    },
+    {
+      "url": "/contact",
+      "slug": "contact",
+      "type": "about",
+      "contentPath": "contact/index.md",
+      "seoPath": "contact/index.yml",
+      "schemaPath": "contact/index.schema.json",
+      "wordCount": 67
+    },
+    {
+      "url": "/projets/tadam",
+      "slug": "projets/tadam",
+      "type": "landing",
+      "contentPath": "projets/tadam/index.md",
+      "seoPath": "projets/tadam/index.yml",
+      "schemaPath": "projets/tadam/index.schema.json",
+      "wordCount": 64
+    },
+    {
+      "url": "/projets/escapade-chimere-et-consommation",
+      "slug": "projets/escapade-chimere-et-consommation",
+      "type": "landing",
+      "contentPath": "projets/escapade-chimere-et-consommation/index.md",
+      "seoPath": "projets/escapade-chimere-et-consommation/index.yml",
+      "schemaPath": "projets/escapade-chimere-et-consommation/index.schema.json",
+      "wordCount": 74
+    },
+    {
+      "url": "/info",
+      "slug": "info",
+      "type": "landing",
+      "contentPath": "info/index.md",
+      "seoPath": "info/index.yml",
+      "schemaPath": "info/index.schema.json",
+      "wordCount": 117
+    },
+    {
+      "url": "/projets/pixie",
+      "slug": "projets/pixie",
+      "type": "landing",
+      "contentPath": "projets/pixie/index.md",
+      "seoPath": "projets/pixie/index.yml",
+      "schemaPath": "projets/pixie/index.schema.json",
+      "wordCount": 63
+    },
+    {
+      "url": "/projets/jump",
+      "slug": "projets/jump",
+      "type": "landing",
+      "contentPath": "projets/jump/index.md",
+      "seoPath": "projets/jump/index.yml",
+      "schemaPath": "projets/jump/index.schema.json",
+      "wordCount": 67
+    },
+    {
+      "url": "/projets/camouflage-urbain",
+      "slug": "projets/camouflage-urbain",
+      "type": "landing",
+      "contentPath": "projets/camouflage-urbain/index.md",
+      "seoPath": "projets/camouflage-urbain/index.yml",
+      "schemaPath": "projets/camouflage-urbain/index.schema.json",
+      "wordCount": 61
+    },
+    {
+      "url": "/projets/if",
+      "slug": "projets/if",
+      "type": "landing",
+      "contentPath": "projets/if/index.md",
+      "seoPath": "projets/if/index.yml",
+      "schemaPath": "projets/if/index.schema.json",
+      "wordCount": 61
+    }
+  ],
+  "assets": {
+    "images": 457,
+    "fonts": 35,
+    "scripts": 44
+  }
+}

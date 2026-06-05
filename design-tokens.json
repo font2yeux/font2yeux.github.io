@@ -1,0 +1,71 @@
+{
+  "colors": [
+    {
+      "variable": "--token-4e5ec785-d554-4e8e-82ce-e5ab961818e5",
+      "value": "#141414"
+    },
+    {
+      "variable": "--token-65841977-dd06-4b4d-96e6-3b06bfda4b5a",
+      "value": "#c2c2c2"
+    },
+    {
+      "variable": "--token-04cefd0b-c864-4560-8403-08406a4e929e",
+      "value": "#6e6e6e"
+    },
+    {
+      "variable": "--token-10556118-3f65-4dcc-8459-76fe7625431f",
+      "value": "#333"
+    },
+    {
+      "variable": "--token-87dfb5d8-c53c-4c05-8a17-f41c11abc809",
+      "value": "#242424"
+    },
+    {
+      "variable": "--token-077a45cf-3a6b-41f9-9104-3441abe1085e",
+      "value": "#141414"
+    },
+    {
+      "variable": "--token-bed9b5ab-86b7-4277-a79d-379bb0a03092",
+      "value": "#c2c2c2"
+    }
+  ],
+  "fonts": [
+    {
+      "variable": "--framer-font-family",
+      "value": "\"Cousine\",monospace"
+    },
+    {
+      "variable": "--framer-font-family-bold",
+      "value": "\"Cousine\",monospace"
+    },
+    {
+      "variable": "--framer-font-family-bold-italic",
+      "value": "\"Cousine\",monospace"
+    },
+    {
+      "variable": "--framer-font-family-italic",
+      "value": "\"Cousine\",monospace"
+    }
+  ],
+  "spacing": [
+    {
+      "variable": "--framer-font-size",
+      "value": "13px"
+    }
+  ],
+  "rawVariables": {
+    "--token-4e5ec785-d554-4e8e-82ce-e5ab961818e5": "#141414",
+    "--token-65841977-dd06-4b4d-96e6-3b06bfda4b5a": "#c2c2c2",
+    "--token-04cefd0b-c864-4560-8403-08406a4e929e": "#6e6e6e",
+    "--token-10556118-3f65-4dcc-8459-76fe7625431f": "#333",
+    "--token-87dfb5d8-c53c-4c05-8a17-f41c11abc809": "#242424",
+    "--token-077a45cf-3a6b-41f9-9104-3441abe1085e": "#141414",
+    "--token-bed9b5ab-86b7-4277-a79d-379bb0a03092": "#c2c2c2",
+    "--framer-font-family": "\"Cousine\",monospace",
+    "--framer-font-family-bold": "\"Cousine\",monospace",
+    "--framer-font-family-bold-italic": "\"Cousine\",monospace",
+    "--framer-font-family-italic": "\"Cousine\",monospace",
+    "--framer-font-size": "13px",
+    "--list-style-type": "decimal"
+  }
+}
