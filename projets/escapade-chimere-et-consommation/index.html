@@ -504,4 +504,45 @@ a[href*="framer.com/templates"],a[href*="framer.com/marketplace"]{display:none!i
     <!-- End of bodyEnd -->
 
 
+<script>
+(function(){
+  if(!/iPhone|iPad|iPod/i.test(navigator.userAgent)) return;
+
+  function initLazyUnload() {
+    var imgs = document.querySelectorAll('.framer-10hd229 img, .framer-u4hcrj img');
+    if(!imgs.length) { setTimeout(initLazyUnload, 300); return; }
+
+    imgs.forEach(function(img) {
+      img.setAttribute('data-src', img.src);
+      img.setAttribute('data-srcset', img.srcset || '');
+    });
+
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        var img = entry.target;
+        if(entry.isIntersecting) {
+          if(img.getAttribute('data-src') && !img.src.includes('data:')) {
+            img.src = img.getAttribute('data-src');
+            if(img.getAttribute('data-srcset')) img.srcset = img.getAttribute('data-srcset');
+          }
+        } else {
+          // Décharger les images hors viewport pour libérer la mémoire
+          img.src = 'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==';
+          img.srcset = '';
+        }
+      });
+    }, {
+      rootMargin: '200px 0px', // Précharger 200px avant d'entrer
+      threshold: 0
+    });
+
+    imgs.forEach(function(img) { observer.observe(img); });
+  }
+
+  document.addEventListener('DOMContentLoaded', initLazyUnload);
+  // Framer hydrate après DOMContentLoaded, on réessaie
+  setTimeout(initLazyUnload, 1000);
+  setTimeout(initLazyUnload, 2500);
+})();
+</script>
 </body></html>
