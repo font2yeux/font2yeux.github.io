@@ -4,7 +4,7 @@ slug: /projets/pixie
 description: "Création d"
 ogImage: /images/pTNALQ4JRvv9Lfl0Lkpxi9BaVxI_3a8f75.png
 type: landing
-date: 2026-06-05
+date: 2026-06-06
 ---
 
 # Pixie

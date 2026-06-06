@@ -4,7 +4,7 @@ slug: /projets/if
 description: "Création d"
 ogImage: /images/Xq87qU2cEvkVUBxVnEKYrC2s8WA_19bcb6.webp
 type: landing
-date: 2026-06-05
+date: 2026-06-06
 ---
 
 ### Catégorie

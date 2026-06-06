@@ -4,7 +4,7 @@ slug: /projets/lana-core
 description: "Conception de logo et création de visuels pour vêtements."
 ogImage: /images/YAYqh5A3K0IUFeo6vwDNXXnQcjw_203f13.webp
 type: landing
-date: 2026-06-05
+date: 2026-06-06
 ---
 
 # Lana Core

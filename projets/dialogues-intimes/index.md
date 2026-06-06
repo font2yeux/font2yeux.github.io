@@ -4,7 +4,7 @@ slug: /projets/dialogues-intimes
 description: "Conception de logo et création de visuels pour les réseaux sociaux."
 ogImage: /images/Kr377zvXDkBNcAg6CazUTMOUZN8_115e3e.webp
 type: landing
-date: 2026-06-05
+date: 2026-06-06
 ---
 
 # Dialogues intimes

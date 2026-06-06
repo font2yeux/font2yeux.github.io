@@ -4,7 +4,7 @@ slug: /projets/oe
 description: "Création d"
 ogImage: /images/ml5bkH2lpftMzdpNdIndn6jU_c18762.webp
 type: landing
-date: 2026-06-05
+date: 2026-06-06
 ---
 
 ### Catégorie

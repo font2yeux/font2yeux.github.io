@@ -4,7 +4,7 @@ slug: /projets/jump
 description: "Conception de logo et création d"
 ogImage: /images/rzT3W5rwTCTaQ5saoZxXQ9H5nw_241754.webp
 type: landing
-date: 2026-06-05
+date: 2026-06-06
 ---
 
 # Jump
