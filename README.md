@@ -2,7 +2,7 @@
 
 **Source:** https://yeuxtest.framer.website
 **Pages:** 26
-**Generated:** 2026-06-06
+**Generated:** 2026-06-07
 
 ## Page Types
 - landing: 25 pages

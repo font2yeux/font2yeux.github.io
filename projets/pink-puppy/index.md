@@ -4,7 +4,7 @@ slug: /projets/pink-puppy
 description: "Direction artistique et photographie pour la création d"
 ogImage: /images/mBxjdk34ZRNM5aZXWrtxWfuk0_046d1b.webp
 type: landing
-date: 2026-06-06
+date: 2026-06-07
 ---
 
 # Pink puppy

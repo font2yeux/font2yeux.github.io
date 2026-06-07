@@ -4,7 +4,7 @@ slug: /projets/sur-la-vague
 description: "Création d"
 ogImage: /images/NC8LUlhAu8brUfyv7bSsJWIe5L8_3f393a.webp
 type: landing
-date: 2026-06-06
+date: 2026-06-07
 ---
 
 # Sur la vague

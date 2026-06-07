@@ -4,7 +4,7 @@ slug: /projets/fleurs
 description: "Création et expérimentation visuelle numérique."
 ogImage: /images/px5npg0CRtQqTy4mJul7mdguI_33305f.png
 type: landing
-date: 2026-06-06
+date: 2026-06-07
 ---
 
 # Fleurs

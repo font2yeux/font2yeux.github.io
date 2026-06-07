@@ -4,7 +4,7 @@ slug: /projets/escapade-chimere-et-consommation
 description: "Création d"
 ogImage: /images/vfTjunp7r53OG0HnnFsf8TwM1U_033aad.webp
 type: landing
-date: 2026-06-06
+date: 2026-06-07
 ---
 
 # Escapade, chimère et consommation

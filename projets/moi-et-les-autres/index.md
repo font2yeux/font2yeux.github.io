@@ -4,7 +4,7 @@ slug: /projets/moi-et-les-autres
 description: "Création d"
 ogImage: /images/nPky6MbAwB5lCJqIFzgqOpObo_7e2567.webp
 type: landing
-date: 2026-06-06
+date: 2026-06-07
 ---
 
 # Moi et les autres

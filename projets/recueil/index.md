@@ -4,7 +4,7 @@ slug: /projets/recueil
 description: "Création d"
 ogImage: /images/E7IBKxfojT3z6fJW8LmwtpnUvc_0a22fe.webp
 type: landing
-date: 2026-06-06
+date: 2026-06-07
 ---
 
 # recueil

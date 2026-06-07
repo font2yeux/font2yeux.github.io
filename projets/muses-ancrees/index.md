@@ -4,7 +4,7 @@ slug: /projets/muses-ancrees
 description: "Conception de logo et création typographique."
 ogImage: /images/7GbJdI9nz1SNMNCSbQVivx1vyo_19bcb6.webp
 type: landing
-date: 2026-06-06
+date: 2026-06-07
 ---
 
 # Muses ancrées

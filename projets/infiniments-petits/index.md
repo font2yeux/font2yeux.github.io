@@ -4,7 +4,7 @@ slug: /projets/infiniments-petits
 description: "Mise en page de magazine et création d"
 ogImage: /images/niP0qW9mbL3hgltZHDE0lz40Zfo_6e294f.webp
 type: landing
-date: 2026-06-06
+date: 2026-06-07
 ---
 
 # Infiniments petits
