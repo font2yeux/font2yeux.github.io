@@ -13,7 +13,7 @@ date: 2026-06-07
 
 ## Social
 
-[Instagram](https://instagram.com)
+[Instagram](https://www.instagram.com/font2yeux/)
 
 ## Me contacter
 
@@ -28,8 +28,6 @@ Envoyer
 [Yeux](./)
 
 Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
-
-[Instagram](https://www.instagram.com/font2yeux/)
 
 [Contact](mailto:1oeilet1oeil@gmail.com)
 

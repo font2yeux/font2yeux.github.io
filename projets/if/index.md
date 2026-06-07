@@ -17,6 +17,8 @@ Graphisme
 
 Création d'une typographie en téléchargement libre.
 
+[Télécharger](https://drive.proton.me/urls/GMNHGG2Z6C#jZ6FuJ3kXYtL)
+
 [< Précédent](./pixie)
 
 [Suivant >](./jump)
