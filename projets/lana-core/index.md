@@ -1,7 +1,7 @@
 ---
 title: "Lana Core / yeux"
 slug: /projets/lana-core
-description: "Logo pour Lana Core, une marque d’upcycling de vêtements de seconde main. Le lettrage en forme de cœur est aujourd’hui brodé sur les pièces chinées de la marque, passant du vectoriel au textile."
+description: "(Projet professionnel — Logo) Conception d"
 ogImage: /images/YAYqh5A3K0IUFeo6vwDNXXnQcjw_203f13.webp
 type: landing
 date: 2026-06-08
@@ -17,7 +17,7 @@ Graphisme
 
 2023
 
-Logo pour Lana Core, une marque d’upcycling de vêtements de seconde main. Le lettrage en forme de cœur est aujourd’hui brodé sur les pièces chinées de la marque, passant du vectoriel au textile.
+(Projet professionnel — Logo) Conception d'un logo pour une marque d’upcycling de vêtements de seconde main. Le lettrage en forme de cœur est aujourd’hui brodé sur les pièces chinées de la marque, passing ainsi du vectoriel au textile.
 
 ### Crédits
 
@@ -29,7 +29,7 @@ Logo pour Lana Core, une marque d’upcycling de vêtements de seconde main. Le 
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

@@ -1,7 +1,7 @@
 ---
 title: "Fleurs / yeux"
 slug: /projets/fleurs
-description: "Série personnelle d’expérimentations visuelles autour de fleurs du monde entier. Chaque image retraite une photographie existante par tramage et ascii art. Le projet questionne la mondialisation du végétal : des fleurs aux origines géographiques précises, désormais cultivées et consommées partout."
+description: "(Projet personnel — Série d’expérimentations) Réalisation d"
 ogImage: /images/px5npg0CRtQqTy4mJul7mdguI_33305f.png
 type: landing
 date: 2026-06-08
@@ -17,7 +17,7 @@ Graphisme
 
 2025
 
-Série personnelle d’expérimentations visuelles autour de fleurs du monde entier. Chaque image retraite une photographie existante par tramage et ascii art. Le projet questionne la mondialisation du végétal : des fleurs aux origines géographiques précises, désormais cultivées et consommées partout.
+(Projet personnel — Série d’expérimentations) Réalisation d'une série d’expérimentations visuelles autour de fleurs du monde entier. Chaque image retraite une photographie existante par tramage et ASCII art pour questionner la mondialisation du végétal, à travers des fleurs aux origines géographiques précises désormais cultivées et consommées partout.
 
 [< Précédent](./recueil)
 
@@ -25,7 +25,7 @@ Série personnelle d’expérimentations visuelles autour de fleurs du monde ent
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

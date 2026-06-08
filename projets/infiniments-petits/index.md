@@ -1,7 +1,7 @@
 ---
 title: "Infiniments petits / yeux"
 slug: /projets/infiniments-petits
-description: "Projet d’école autour de la refonte d’Infiniment petits, un magazine scientifique sur les insectes. Conception de la couverture, mise en page des contenus et création d’un système d’illustrations au trait pour accompagner les articles."
+description: "(Projet d’école — Magazine) Conception de la refonte graphique d’un magazine scientifique sur les insectes. Le travail comprend la création de la couverture, la mise en page des contenus et le développement d’un système d’illustrations pour accompagner les articles."
 ogImage: /images/niP0qW9mbL3hgltZHDE0lz40Zfo_6e294f.webp
 type: landing
 date: 2026-06-08
@@ -17,7 +17,7 @@ Graphisme
 
 2025
 
-Projet d’école autour de la refonte d’Infiniment petits, un magazine scientifique sur les insectes. Conception de la couverture, mise en page des contenus et création d’un système d’illustrations au trait pour accompagner les articles.
+(Projet d’école — Magazine) Conception de la refonte graphique d’un magazine scientifique sur les insectes. Le travail comprend la création de la couverture, la mise en page des contenus et le développement d’un système d’illustrations pour accompagner les articles.
 
 [< Précédent](./dialogues-intimes)
 
@@ -25,7 +25,7 @@ Projet d’école autour de la refonte d’Infiniment petits, un magazine scient
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

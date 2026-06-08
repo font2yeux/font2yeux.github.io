@@ -1,7 +1,7 @@
 ---
 title: "Culture.wapi / yeux"
 slug: /projets/culture.wapi
-description: "Deux propositions de refonte graphique pour Culture.Wapi, une entité culturelle de la région Wallonie-Picarde. Projet d’école autour de la conception de logo et d’affiches associées, explorant deux directions visuelles distinctes."
+description: "(Projet d’école — Refonte graphique) Conception de deux propositions de refonte graphique pour une entité culturelle de la région Wallonie-Picarde. L"
 ogImage: /images/XYhb1AIBc90eLiOzryhXBtq2428_00593d.webp
 type: landing
 date: 2026-06-08
@@ -17,7 +17,7 @@ Graphisme
 
 2023
 
-Deux propositions de refonte graphique pour Culture.Wapi, une entité culturelle de la région Wallonie-Picarde. Projet d’école autour de la conception de logo et d’affiches associées, explorant deux directions visuelles distinctes.
+(Projet d’école — Refonte graphique) Conception de deux propositions de refonte graphique pour une entité culturelle de la région Wallonie-Picarde. L'étude explore deux directions visuelles distinctes à travers la création de logos et d’affiches associées.
 
 [< Précédent](./pink-puppy)
 
@@ -25,7 +25,7 @@ Deux propositions de refonte graphique pour Culture.Wapi, une entité culturelle
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

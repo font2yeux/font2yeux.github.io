@@ -17,7 +17,7 @@ CONTACT
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

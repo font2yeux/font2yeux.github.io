@@ -1,7 +1,7 @@
 ---
 title: "Escapade, chimère et consommation / yeux"
 slug: /projets/escapade-chimere-et-consommation
-description: "Projet personnel autour du champignon comme territoire graphique et sensoriel. 26 cartes réalisées à la bombe de peinture, chacune associant un champignon peint à son initiale en typographie pixel conçue pour l’occasion et à un pictogramme illustrant une de ses propriétés. Escapade, chimère et consommation : trois rapports au champignon, de la cueillette à l’hallucination."
+description: "(Projet personnel — Édition) Réalisation de 26 cartes à la bombe de peinture autour du champignon comme territoire graphique et sensoriel. Chaque carte associe un champignon peint à son initiale en typographie conçue pour l’occasion et à des pictogrammes illustrant ses propriétés."
 ogImage: /images/vfTjunp7r53OG0HnnFsf8TwM1U_033aad.webp
 type: landing
 date: 2026-06-08
@@ -19,7 +19,7 @@ Art
 
 2025
 
-Projet personnel autour du champignon comme territoire graphique et sensoriel. 26 cartes réalisées à la bombe de peinture, chacune associant un champignon peint à son initiale en typographie pixel conçue pour l’occasion et à un pictogramme illustrant une de ses propriétés. Escapade, chimère et consommation : trois rapports au champignon, de la cueillette à l’hallucination.
+(Projet personnel — Édition) Réalisation de 26 cartes à la bombe de peinture autour du champignon comme territoire graphique et sensoriel. Chaque carte associe un champignon peint à son initiale en typographie conçue pour l’occasion et à des pictogrammes illustrant ses propriétés.
 
 [< Précédent](./tadam)
 
@@ -27,7 +27,7 @@ Projet personnel autour du champignon comme territoire graphique et sensoriel. 2
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

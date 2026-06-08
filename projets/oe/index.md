@@ -1,7 +1,7 @@
 ---
 title: "œ / yeux"
 slug: /projets/oe
-description: "Affiche pour œ, une pièce chorégraphique de Pierre Pontvianne créée en co-réalisation avec l’Opéra de Lille. La pièce explore la composition du souvenir, sa dissolution et ses manques. Le visuel place le œ au centre d’une lumière qui irradie, deux formes à la fois liées et creusées l’une par l’autre, en écho à la ligature elle-même : ce qui unit et ce qui efface. Projet d’école."
+description: "(Projet d’école — Affiche) Conception d"
 ogImage: /images/ml5bkH2lpftMzdpNdIndn6jU_c18762.webp
 type: landing
 date: 2026-06-08
@@ -15,7 +15,7 @@ Graphisme
 
 2024
 
-Affiche pour œ, une pièce chorégraphique de Pierre Pontvianne créée en co-réalisation avec l’Opéra de Lille. La pièce explore la composition du souvenir, sa dissolution et ses manques. Le visuel place le œ au centre d’une lumière qui irradie, deux formes à la fois liées et creusées l’une par l’autre, en écho à la ligature elle-même : ce qui unit et ce qui efface. Projet d’école.
+(Projet d’école — Affiche) Conception d'une affiche pour une pièce chorégraphique explorant la composition du souvenir, sa dissolution et ses manques. Le visuel place le « œ » au centre d’une lumière qui irradie : deux formes à la fois liées et creusées l’une par l’autre, en écho à la ligature elle-même (ce qui unit et ce qui efface).
 
 [< Précédent](./moi-et-les-autres)
 
@@ -23,7 +23,7 @@ Affiche pour œ, une pièce chorégraphique de Pierre Pontvianne créée en co-r
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

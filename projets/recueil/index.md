@@ -1,7 +1,7 @@
 ---
 title: "recueil / yeux"
 slug: /projets/recueil
-description: "Série photographique personnelle autour du recueillement, de l’acceptation de la mort et du lâcher prise. En noir et blanc, les images suivent un geste simple : des fleurs fanées confiées à l’eau."
+description: "(Projet personnel — Série photographique) Réalisation d"
 ogImage: /images/E7IBKxfojT3z6fJW8LmwtpnUvc_0a22fe.webp
 type: landing
 date: 2026-06-08
@@ -17,7 +17,7 @@ Photographie
 
 2025
 
-Série photographique personnelle autour du recueillement, de l’acceptation de la mort et du lâcher prise. En noir et blanc, les images suivent un geste simple : des fleurs fanées confiées à l’eau.
+(Projet personnel — Série photographique) Réalisation d'une série photographique autour du recueillement, de l’acceptation de la mort et du lâcher-prise. Les images suivent un geste simple : des fleurs fanées confiées à l’eau.
 
 [< Précédent](./jump)
 
@@ -25,7 +25,7 @@ Série photographique personnelle autour du recueillement, de l’acceptation de
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

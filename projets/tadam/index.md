@@ -1,7 +1,7 @@
 ---
 title: "Tadam / yeux"
 slug: /projets/tadam
-description: "Affiche pour Tadam, une pièce de théâtre jeune public sur la disparition et les secrets de famille. La grille de barrière permet au lapin de disparaître physiquement dans le chapeau en faisant glisser une grille transparente sur l’image, faisant de l’affiche elle-même un objet de magie."
+description: "(Projet d’école — Affiche) Conception d"
 ogImage: /images/dxMoFCgnxgrrWG6TxrsW9MiEPA_241754.webp
 type: landing
 date: 2026-06-08
@@ -17,13 +17,13 @@ Graphisme
 
 2026
 
-Affiche pour Tadam, une pièce de théâtre jeune public sur la disparition et les secrets de famille. La grille de barrière permet au lapin de disparaître physiquement dans le chapeau en faisant glisser une grille transparente sur l’image, faisant de l’affiche elle-même un objet de magie.
+(Projet d’école — Affiche) Conception d'une affiche pour une pièce de théâtre jeune public sur la disparition et les secrets de famille. La grille de barrière permet au lapin de disparaître physiquement dans le chapeau en faisant glisser une grille transparente sur l’image, faisant de l’affiche elle-même un objet de magie.
 
 [Suivant >](./escapade-chimere-et-consommation)
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

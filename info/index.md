@@ -9,7 +9,7 @@ date: 2026-06-08
 
 # à propos
 
-Graphiste multidisciplinaire mêlant analyse historique et expérimentation pour créer des récits visuels porteurs de sens. Je refuse l'usage de l'IA pour privilégier une approche humaine, du concept à l'objet fini. Inspiré par l'histoire de l'art, j'explore les outils manuels et numériques pour transformer des idées en réalisations concrètes, durables et habitées.
+Graphiste multidisciplinaire, j’allie recherche et expérimentation pour façonner des récits visuels **uniques**. Face à l’IA (dé)générative, je revendique une démarche purement humaine, du concept à l’objet fini. Inspiré par l’histoire de l’art, je croise outils manuels et numériques pour transformer les idées en réalisations concrètes, durables et porteuses de sens.
 
 ## Domaines
 
@@ -29,7 +29,7 @@ Recherche & Expérimentation
 
 [Yeux](./)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

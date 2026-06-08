@@ -1,7 +1,7 @@
 ---
 title: "Sur la vague / yeux"
 slug: /projets/sur-la-vague
-description: "Affiche de lancement de saison pour une salle de concert fictive. Projet d’école autour de la création d’un univers visuel complet : modélisation 3D d’une scène et d’un personnage, intégrés dans une composition typographique."
+description: "(Projet d’école — Affiche) Conception d"
 ogImage: /images/NC8LUlhAu8brUfyv7bSsJWIe5L8_3f393a.webp
 type: landing
 date: 2026-06-08
@@ -17,7 +17,7 @@ Graphisme
 
 2025
 
-Affiche de lancement de saison pour une salle de concert fictive. Projet d’école autour de la création d’un univers visuel complet : modélisation 3D d’une scène et d’un personnage, intégrés dans une composition typographique.
+(Projet d’école — Affiche) Conception d'une affiche de lancement de saison s'articulant autour de la création d’un univers visuel complet. La composition typographique intègre la modélisation 3D d’une scène et d’un personnage.
 
 [< Précédent](./fleurs)
 
@@ -25,7 +25,7 @@ Affiche de lancement de saison pour une salle de concert fictive. Projet d’éc
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

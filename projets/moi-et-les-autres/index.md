@@ -1,7 +1,7 @@
 ---
 title: "Moi et les autres / yeux"
 slug: /projets/moi-et-les-autres
-description: "Série d’autoportraits questionnant le rapport au corps et la place occupée dans différents contextes sociaux. Une figure drapée de blanc, entre présence et effacement, seule ou entourée dans des espaces urbains du quotidien."
+description: "(Projet personnel — Série photographique) Réalisation d"
 ogImage: /images/nPky6MbAwB5lCJqIFzgqOpObo_7e2567.webp
 type: landing
 date: 2026-06-08
@@ -17,7 +17,7 @@ Photographie
 
 2024
 
-Série d’autoportraits questionnant le rapport au corps et la place occupée dans différents contextes sociaux. Une figure drapée de blanc, entre présence et effacement, seule ou entourée dans des espaces urbains du quotidien.
+(Projet personnel — Série photographique) Réalisation d'une série d’autoportraits questionnant le rapport au corps et la place occupée dans différents contextes sociaux. Les clichés mettent en scène une figure drapée de blanc, entre présence et effacement, seule ou entourée dans des espaces du quotidien.
 
 [< Précédent](./sur-la-vague)
 
@@ -25,7 +25,7 @@ Série d’autoportraits questionnant le rapport au corps et la place occupée d
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

@@ -1,7 +1,7 @@
 ---
 title: "Jump / yeux"
 slug: /projets/jump
-description: "Identité visuelle pour Jump, un café étudiant associatif et solidaire. Logo et série d’affiches dont les visuels sont réalisés en papier découpé, une technique manuelle qui reflète l’esprit accessible et engagé du lieu. Projet d"
+description: "(Projet d’école — Identité visuelle) Réalisation d"
 ogImage: /images/rzT3W5rwTCTaQ5saoZxXQ9H5nw_241754.webp
 type: landing
 date: 2026-06-08
@@ -17,7 +17,7 @@ Graphisme
 
 2025
 
-Identité visuelle pour Jump, un café étudiant associatif et solidaire. Logo et série d’affiches dont les visuels sont réalisés en papier découpé, une technique manuelle qui reflète l’esprit accessible et engagé du lieu. Projet d'école.
+(Projet d’école — Identité visuelle) Réalisation d'une identité visuelle pour un café étudiant associatif et solidaire. Le projet intègre la création d'un logo et d'une série d'affiches conçues à l'aide de papiers découpés.
 
 [< Précédent](./if)
 
@@ -25,7 +25,7 @@ Identité visuelle pour Jump, un café étudiant associatif et solidaire. Logo e
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

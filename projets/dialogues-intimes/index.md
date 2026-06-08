@@ -1,7 +1,7 @@
 ---
 title: "Dialogues intimes / yeux"
 slug: /projets/dialogues-intimes
-description: "Identité visuelle pour Dialogues Intimes, un podcast donnant la parole aux personnes aux identités plurielles : queers, racisées, croyantes."
+description: "(Projet professionnel — Identité visuelle) Réalisation d"
 ogImage: /images/Kr377zvXDkBNcAg6CazUTMOUZN8_115e3e.webp
 type: landing
 date: 2026-06-08
@@ -17,7 +17,7 @@ Graphisme
 
 2025
 
-Identité visuelle pour Dialogues Intimes, un podcast donnant la parole aux personnes aux identités plurielles : queers, racisées, croyantes.
+(Projet professionnel — Identité visuelle) Réalisation d'une identité visuelle pour un podcast donnant la parole aux personnes aux identités plurielles (queers, racisées, croyantes). Les illustrations reprennent des éléments faisant écho aux sujets évoqués dans le podcast.
 
 [< Précédent](./muses-ancrees)
 
@@ -25,7 +25,7 @@ Identité visuelle pour Dialogues Intimes, un podcast donnant la parole aux pers
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

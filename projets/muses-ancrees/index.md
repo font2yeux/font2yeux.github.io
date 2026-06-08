@@ -1,7 +1,7 @@
 ---
 title: "Muses ancrées / yeux"
 slug: /projets/muses-ancrees
-description: "Logo pour Muses Ancrées, un espace de création à Tourcoing réunissant tatouage, mode de seconde main et nail art. Le lettrage s’inspire de l’esthétique art nouveau avec des courbes organiques et empattements travaillés pour ancrer une identité visuelle à la fois vintage et actuelle."
+description: "(Projet professionnel — Logo) Conception d"
 ogImage: /images/7GbJdI9nz1SNMNCSbQVivx1vyo_19bcb6.webp
 type: landing
 date: 2026-06-08
@@ -17,7 +17,11 @@ Graphisme
 
 2025
 
-Logo pour Muses Ancrées, un espace de création à Tourcoing réunissant tatouage, mode de seconde main et nail art. Le lettrage s’inspire de l’esthétique art nouveau avec des courbes organiques et empattements travaillés pour ancrer une identité visuelle à la fois vintage et actuelle.
+(Projet professionnel — Logo) Conception d'un logo pour un espace de création à Tourcoing réunissant tatouage, mode de seconde main et nail art. Le lettrage s’inspire de l’esthétique Art nouveau avec des courbes organiques et des empattements travaillés pour ancrer une identité visuelle à la fois vintage et actuelle.
+
+### Crédits
+
+@muses_ancrees_studio
 
 [< Précédent](./escapade-chimere-et-consommation)
 
@@ -25,7 +29,7 @@ Logo pour Muses Ancrées, un espace de création à Tourcoing réunissant tatoua
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

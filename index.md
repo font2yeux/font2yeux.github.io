@@ -9,11 +9,11 @@ date: 2026-06-08
 
 ## à propos
 
-graphiste multidisciplinaire qui aime combiner les outils traditionnels et numériques pour expérimenter. Mon approche intègre aussi bien la photo, l'illustration que la mise en page. Ce qui me passionne, c’est de suivre un projet de A à Z, de sa conception jusqu'à sa fabrication.
+Graphiste multidisciplinaire, je croise les outils traditionnels et numériques pour faire de chaque projet un terrain d'expérimentation. Mon travail fusionne photographie, illustration et mise en page. Sensible au design global, je m'implique à chaque étape du processus, de la première idée à l'objet fabriqué.
 
 [Yeux](./)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

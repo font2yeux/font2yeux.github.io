@@ -1,7 +1,7 @@
 ---
 title: "IF / yeux"
 slug: /projets/if
-description: "IF est une typographie construite sur une grille de lignes entrecroisées, inspirée des formes géométriques du Bauhaus. Elle comprend hauts et bas de casse, chiffres et symboles. Disponible en téléchargement gratuit, libre d’utilisation avec crédit"
+description: "(Projet personnel — Typographie) Création d"
 ogImage: /images/Xq87qU2cEvkVUBxVnEKYrC2s8WA_19bcb6.webp
 type: landing
 date: 2026-06-08
@@ -15,7 +15,7 @@ Graphisme
 
 2025
 
-IF est une typographie construite sur une grille de lignes entrecroisées, inspirée des formes géométriques du Bauhaus. Elle comprend hauts et bas de casse, chiffres et symboles. Disponible en téléchargement gratuit, libre d’utilisation avec crédit
+(Projet personnel — Typographie) Création d'une typographie construite sur une grille de lignes entrecroisées, inspirée des formes géométriques du Bauhaus. La fonte comprend les hauts et bas de casse, les chiffres et les symboles, disponible en téléchargement gratuit et libre d’utilisation avec crédit.
 
 [Télécharger](https://drive.proton.me/urls/GMNHGG2Z6C#jZ6FuJ3kXYtL)
 
@@ -25,7 +25,7 @@ IF est une typographie construite sur une grille de lignes entrecroisées, inspi
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

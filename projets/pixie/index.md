@@ -1,7 +1,7 @@
 ---
 title: "Pixie / yeux"
 slug: /projets/pixie
-description: "Pixie est une typographie construite sur une grille de points. Elle existe en trois graisses, light, regular et bold, et joue sur la tension entre la rigueur de la grille et l’irrégularité organique des formes obtenues. Disponible en téléchargement gratuit, libre d’utilisation avec crédit."
+description: "(Projet personnel — Typographie) Création d"
 ogImage: /images/pTNALQ4JRvv9Lfl0Lkpxi9BaVxI_3a8f75.png
 type: landing
 date: 2026-06-08
@@ -17,7 +17,7 @@ Graphisme
 
 2025
 
-Pixie est une typographie construite sur une grille de points. Elle existe en trois graisses, light, regular et bold, et joue sur la tension entre la rigueur de la grille et l’irrégularité organique des formes obtenues. Disponible en téléchargement gratuit, libre d’utilisation avec crédit.
+(Projet personnel — Typographie) Création d'une typographie construite sur une grille de points, existant en trois graisses (Light, Regular et Bold). Le dessin joue sur la tension entre la rigueur de la grille et l’irrégularité organique des formes obtenues, disponible en téléchargement gratuit et libre d’utilisation avec crédit.
 
 [Télécharger](https://drive.proton.me/urls/CXYAAXNAC0#n4KeH3bfwIbi)
 
@@ -27,7 +27,7 @@ Pixie est une typographie construite sur une grille de points. Elle existe en tr
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 

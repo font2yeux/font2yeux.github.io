@@ -1,7 +1,7 @@
 ---
 title: "Pink puppy / yeux"
 slug: /projets/pink-puppy
-description: "Direction artistique et photographie pour l’édition vinyle de Pink Puppy, un groupe de punk imaginaire. Projet d’école autour de la construction d’une identité musicale complète : shooting photo, conception des visuels de pochette et des étiquettes de vinyle."
+description: "(Projet d’école — Direction artistique & Photographie) Réalisation de la direction artistique et des photographies pour l’édition vinyle d’un groupe de punk imaginaire. Le travail s"
 ogImage: /images/mBxjdk34ZRNM5aZXWrtxWfuk0_046d1b.webp
 type: landing
 date: 2026-06-08
@@ -19,7 +19,7 @@ Photographie
 
 2023
 
-Direction artistique et photographie pour l’édition vinyle de Pink Puppy, un groupe de punk imaginaire. Projet d’école autour de la construction d’une identité musicale complète : shooting photo, conception des visuels de pochette et des étiquettes de vinyle.
+(Projet d’école — Direction artistique & Photographie) Réalisation de la direction artistique et des photographies pour l’édition vinyle d’un groupe de punk imaginaire. Le travail s'organise autour de la construction d’une identité musicale complète, comprenant un shooting photo ainsi que la conception des visuels de pochette et des étiquettes de vinyle.
 
 [< Précédent](./le-champ-de-bataille)
 
@@ -27,7 +27,7 @@ Direction artistique et photographie pour l’édition vinyle de Pink Puppy, un 
 
 [Yeux](../)
 
-Créer des objets visuels à la croisée du manuel et du numérique, guidé par la curiosité et l'expérimentation
+Façonner des objets visuels à la croisée du manuel et du numérique, avec la curiosité et l’expérimentation pour seuls guides.
 
 [Instagram](https://www.instagram.com/font2yeux/)
 
