@@ -4,7 +4,7 @@ slug: /info
 description: "1oeilet1oeilfont2yeux"
 ogImage: /assets/sgUmBYME5nw2qhRiJeDGeNQvE.png
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 # à propos

@@ -1,10 +1,10 @@
 ---
 title: "Pixie / yeux"
 slug: /projets/pixie
-description: "Création d"
+description: "Pixie est une typographie construite sur une grille de points. Elle existe en trois graisses, light, regular et bold, et joue sur la tension entre la rigueur de la grille et l’irrégularité organique des formes obtenues. Disponible en téléchargement gratuit, libre d’utilisation avec crédit."
 ogImage: /images/pTNALQ4JRvv9Lfl0Lkpxi9BaVxI_3a8f75.png
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 # Pixie
@@ -17,7 +17,7 @@ Graphisme
 
 2025
 
-Création d'une typographie en téléchargement libre.
+Pixie est une typographie construite sur une grille de points. Elle existe en trois graisses, light, regular et bold, et joue sur la tension entre la rigueur de la grille et l’irrégularité organique des formes obtenues. Disponible en téléchargement gratuit, libre d’utilisation avec crédit.
 
 [Télécharger](https://drive.proton.me/urls/CXYAAXNAC0#n4KeH3bfwIbi)
 

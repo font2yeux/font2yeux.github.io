@@ -1,10 +1,10 @@
 ---
 title: "Pink puppy / yeux"
 slug: /projets/pink-puppy
-description: "Direction artistique et photographie pour la création d"
+description: "Direction artistique et photographie pour l’édition vinyle de Pink Puppy, un groupe de punk imaginaire. Projet d’école autour de la construction d’une identité musicale complète : shooting photo, conception des visuels de pochette et des étiquettes de vinyle."
 ogImage: /images/mBxjdk34ZRNM5aZXWrtxWfuk0_046d1b.webp
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 # Pink puppy
@@ -19,7 +19,7 @@ Photographie
 
 2023
 
-Direction artistique et photographie pour la création d'une édition vinyle.
+Direction artistique et photographie pour l’édition vinyle de Pink Puppy, un groupe de punk imaginaire. Projet d’école autour de la construction d’une identité musicale complète : shooting photo, conception des visuels de pochette et des étiquettes de vinyle.
 
 [< Précédent](./le-champ-de-bataille)
 

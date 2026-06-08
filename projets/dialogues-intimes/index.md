@@ -1,10 +1,10 @@
 ---
 title: "Dialogues intimes / yeux"
 slug: /projets/dialogues-intimes
-description: "Conception de logo et création de visuels pour les réseaux sociaux."
+description: "Identité visuelle pour Dialogues Intimes, un podcast donnant la parole aux personnes aux identités plurielles : queers, racisées, croyantes."
 ogImage: /images/Kr377zvXDkBNcAg6CazUTMOUZN8_115e3e.webp
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 # Dialogues intimes
@@ -17,7 +17,7 @@ Graphisme
 
 2025
 
-Conception de logo et création de visuels pour les réseaux sociaux.
+Identité visuelle pour Dialogues Intimes, un podcast donnant la parole aux personnes aux identités plurielles : queers, racisées, croyantes.
 
 [< Précédent](./muses-ancrees)
 

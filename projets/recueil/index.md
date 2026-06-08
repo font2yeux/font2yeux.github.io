@@ -1,10 +1,10 @@
 ---
 title: "recueil / yeux"
 slug: /projets/recueil
-description: "Création d"
+description: "Série photographique personnelle autour du recueillement, de l’acceptation de la mort et du lâcher prise. En noir et blanc, les images suivent un geste simple : des fleurs fanées confiées à l’eau."
 ogImage: /images/E7IBKxfojT3z6fJW8LmwtpnUvc_0a22fe.webp
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 # recueil
@@ -17,7 +17,7 @@ Photographie
 
 2025
 
-Création d'une série de photographies.
+Série photographique personnelle autour du recueillement, de l’acceptation de la mort et du lâcher prise. En noir et blanc, les images suivent un geste simple : des fleurs fanées confiées à l’eau.
 
 [< Précédent](./jump)
 

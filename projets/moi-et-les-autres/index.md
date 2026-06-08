@@ -1,10 +1,10 @@
 ---
 title: "Moi et les autres / yeux"
 slug: /projets/moi-et-les-autres
-description: "Création d"
+description: "Série d’autoportraits questionnant le rapport au corps et la place occupée dans différents contextes sociaux. Une figure drapée de blanc, entre présence et effacement, seule ou entourée dans des espaces urbains du quotidien."
 ogImage: /images/nPky6MbAwB5lCJqIFzgqOpObo_7e2567.webp
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 # Moi et les autres
@@ -17,7 +17,7 @@ Photographie
 
 2024
 
-Création d'une série de photographies.
+Série d’autoportraits questionnant le rapport au corps et la place occupée dans différents contextes sociaux. Une figure drapée de blanc, entre présence et effacement, seule ou entourée dans des espaces urbains du quotidien.
 
 [< Précédent](./sur-la-vague)
 

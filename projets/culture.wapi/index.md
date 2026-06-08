@@ -1,10 +1,10 @@
 ---
 title: "Culture.wapi / yeux"
 slug: /projets/culture.wapi
-description: "Conception de logos et création d"
+description: "Deux propositions de refonte graphique pour Culture.Wapi, une entité culturelle de la région Wallonie-Picarde. Projet d’école autour de la conception de logo et d’affiches associées, explorant deux directions visuelles distinctes."
 ogImage: /images/XYhb1AIBc90eLiOzryhXBtq2428_00593d.webp
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 # Culture.wapi
@@ -17,7 +17,7 @@ Graphisme
 
 2023
 
-Conception de logos et création d'affiches associées.
+Deux propositions de refonte graphique pour Culture.Wapi, une entité culturelle de la région Wallonie-Picarde. Projet d’école autour de la conception de logo et d’affiches associées, explorant deux directions visuelles distinctes.
 
 [< Précédent](./pink-puppy)
 

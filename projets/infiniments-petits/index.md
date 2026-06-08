@@ -1,10 +1,10 @@
 ---
 title: "Infiniments petits / yeux"
 slug: /projets/infiniments-petits
-description: "Mise en page de magazine et création d"
+description: "Projet d’école autour de la refonte d’Infiniment petits, un magazine scientifique sur les insectes. Conception de la couverture, mise en page des contenus et création d’un système d’illustrations au trait pour accompagner les articles."
 ogImage: /images/niP0qW9mbL3hgltZHDE0lz40Zfo_6e294f.webp
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 # Infiniments petits
@@ -17,7 +17,7 @@ Graphisme
 
 2025
 
-Mise en page de magazine et création d'illustrations.
+Projet d’école autour de la refonte d’Infiniment petits, un magazine scientifique sur les insectes. Conception de la couverture, mise en page des contenus et création d’un système d’illustrations au trait pour accompagner les articles.
 
 [< Précédent](./dialogues-intimes)
 

@@ -1,10 +1,10 @@
 ---
 title: "Escapade, chimère et consommation / yeux"
 slug: /projets/escapade-chimere-et-consommation
-description: "Création d"
+description: "Projet personnel autour du champignon comme territoire graphique et sensoriel. 26 cartes réalisées à la bombe de peinture, chacune associant un champignon peint à son initiale en typographie pixel conçue pour l’occasion et à un pictogramme illustrant une de ses propriétés. Escapade, chimère et consommation : trois rapports au champignon, de la cueillette à l’hallucination."
 ogImage: /images/vfTjunp7r53OG0HnnFsf8TwM1U_033aad.webp
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 # Escapade, chimère et consommation
@@ -19,7 +19,7 @@ Art
 
 2025
 
-Création d'un abécédaire à la bombe de peinture, de pictogrammes et d'une typographie.
+Projet personnel autour du champignon comme territoire graphique et sensoriel. 26 cartes réalisées à la bombe de peinture, chacune associant un champignon peint à son initiale en typographie pixel conçue pour l’occasion et à un pictogramme illustrant une de ses propriétés. Escapade, chimère et consommation : trois rapports au champignon, de la cueillette à l’hallucination.
 
 [< Précédent](./tadam)
 

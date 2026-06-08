@@ -1,10 +1,10 @@
 ---
 title: "œ / yeux"
 slug: /projets/oe
-description: "Création d"
+description: "Affiche pour œ, une pièce chorégraphique de Pierre Pontvianne créée en co-réalisation avec l’Opéra de Lille. La pièce explore la composition du souvenir, sa dissolution et ses manques. Le visuel place le œ au centre d’une lumière qui irradie, deux formes à la fois liées et creusées l’une par l’autre, en écho à la ligature elle-même : ce qui unit et ce qui efface. Projet d’école."
 ogImage: /images/ml5bkH2lpftMzdpNdIndn6jU_c18762.webp
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 ### Catégorie
@@ -15,7 +15,7 @@ Graphisme
 
 2024
 
-Création d'une affiche.
+Affiche pour œ, une pièce chorégraphique de Pierre Pontvianne créée en co-réalisation avec l’Opéra de Lille. La pièce explore la composition du souvenir, sa dissolution et ses manques. Le visuel place le œ au centre d’une lumière qui irradie, deux formes à la fois liées et creusées l’une par l’autre, en écho à la ligature elle-même : ce qui unit et ce qui efface. Projet d’école.
 
 [< Précédent](./moi-et-les-autres)
 

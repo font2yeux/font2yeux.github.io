@@ -4,7 +4,7 @@ slug: /projets/camouflage-urbain
 description: "1oeilet1oeilfont2yeux"
 ogImage: /assets/sgUmBYME5nw2qhRiJeDGeNQvE.png
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 Create a free website with Framer, the website builder loved by startups, designers and agencies.

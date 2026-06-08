@@ -1,10 +1,10 @@
 ---
 title: "Fleurs / yeux"
 slug: /projets/fleurs
-description: "Création et expérimentation visuelle numérique."
+description: "Série personnelle d’expérimentations visuelles autour de fleurs du monde entier. Chaque image retraite une photographie existante par tramage et ascii art. Le projet questionne la mondialisation du végétal : des fleurs aux origines géographiques précises, désormais cultivées et consommées partout."
 ogImage: /images/px5npg0CRtQqTy4mJul7mdguI_33305f.png
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 # Fleurs
@@ -17,7 +17,7 @@ Graphisme
 
 2025
 
-Création et expérimentation visuelle numérique.
+Série personnelle d’expérimentations visuelles autour de fleurs du monde entier. Chaque image retraite une photographie existante par tramage et ascii art. Le projet questionne la mondialisation du végétal : des fleurs aux origines géographiques précises, désormais cultivées et consommées partout.
 
 [< Précédent](./recueil)
 

@@ -1,10 +1,10 @@
 ---
 title: "Sur la vague / yeux"
 slug: /projets/sur-la-vague
-description: "Création d"
+description: "Affiche de lancement de saison pour une salle de concert fictive. Projet d’école autour de la création d’un univers visuel complet : modélisation 3D d’une scène et d’un personnage, intégrés dans une composition typographique."
 ogImage: /images/NC8LUlhAu8brUfyv7bSsJWIe5L8_3f393a.webp
 type: landing
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 # Sur la vague
@@ -17,7 +17,7 @@ Graphisme
 
 2025
 
-Création d'une affiche et conception 3D.
+Affiche de lancement de saison pour une salle de concert fictive. Projet d’école autour de la création d’un univers visuel complet : modélisation 3D d’une scène et d’un personnage, intégrés dans une composition typographique.
 
 [< Précédent](./fleurs)
 
